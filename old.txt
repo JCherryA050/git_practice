@@ -1,0 +1,3 @@
+# This should create a merge error for the origin.
+
+This should show in the log.
